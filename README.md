@@ -1,0 +1,2 @@
+# Emotional-Sentiment-Analysis-of-Social-Media-Comments
+The Emotional Sentiment Analysis of Social Media Comments on Twitter data aims to revolutionize how emotions are interpret, understood from vast amounts of social media data. By automating sentiment analysis, researchers, and decision-makers can gain valuable insights and make informed decisions to improve products, and public relation strategies
